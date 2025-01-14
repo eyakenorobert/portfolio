@@ -104,10 +104,10 @@
         </ul>
 
 
-        <h2>Portfolio</h2>
+        <h2>Project</h2>
         
         <div class="portfolio-item">
-            <h3>Build a web base application wit php that helps client manage there funds </h3>
+            <h3>Build a web base application with php that helps client manage there funds </h3>
             <p>
                 Objective: Evaluate production efficiency, cost management, and quality control metrics. 
                 Outcome: Identified areas for improvement in operational performance.
