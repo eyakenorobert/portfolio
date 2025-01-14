@@ -159,10 +159,13 @@
                     <td><a href="https:EYAKENO ROBERT cv.pdf">Download my CV</a></td>
                 </tr>
         
+          
+
                 <tr>
                     <td>📺</td>
-                      <td><a href="https://www.youtube.com/channel/UCSNEqCKMo-yvI2c2TmJfOHA">what i do on youtube</a></td   
+                    <td><a href="https://www.youtube.com/channel/UCSNEqCKMo-yvI2c2TmJfOHA">Download my CV</a></td>
                 </tr>
+                
             </tbody>
         </table>
     </div>
