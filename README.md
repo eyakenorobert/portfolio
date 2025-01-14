@@ -127,8 +127,8 @@
                 Objective: Evaluate production efficiency, cost management, and quality control metrics. 
                 Outcome: Identified areas for improvement in operational performance.
             </p>
-            <img src="2-anietie-etuk-data-analytics-sales-project.jpg" alt="Titanic Analysis">
-            <p><a href="https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/">🔗 Read                 More</a></p>
+            <img src="sssdfsdfsf.JPG" alt="Titanic Analysis">
+            <p><a https://gohelpmee.com/>🔗 Read More</a></p>
         </div>
         
         <div class="portfolio-item">
