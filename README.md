@@ -147,7 +147,7 @@
         
                 <tr>
                     <td>📺</td>
-                    <td><a href="https:www.youtube.com/@eyakenorobert">Watch my tutorials on YouTube</a></td>
+                    <td><https://www.youtube.com/channel/UCSNEqCKMo-yvI2c2TmJfOHA >Watch my tutorials on YouTube</a></td>
                 </tr>
             </tbody>
         </table>
