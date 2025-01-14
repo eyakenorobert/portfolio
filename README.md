@@ -73,23 +73,26 @@
     <div class="container">
         <h2>About Me</h2>
         <p>
-            Hi, I am <strong>Ibigbemi Tolani</strong>. Data-driven decisions are my forte. As a Data Analyst with expertise in 
-            Excel, Power BI, SQL, and Tableau, I help businesses unlock growth through insightful analysis and visualization. 
-            My approach combines analytical rigor with a creative flair, ensuring every dataset tells a compelling story.
+            Hi, I am <strong>Eyakeno Robert</strong>. a versatile developer with expertise in the LAMP (Linux, Apache, MySQL, PHP) stack             and Laravel framework, combined with a passion for crafting exceptional user experiences. As a professional UI/UX designer,              I specialize in blending functionality and aesthetics, ensuring that every application is efficient, intuitive, and visually             captivating.
         </p>
         <ul>
-            <li><strong>📈 Key Achievements:</strong> Streamlined reporting processes for a 30% efficiency increase.</li>
-            <li><strong>🎨 Data Visualization Mastery:</strong> Developed engaging dashboards that transformed complex data into insights.</li>
-            <li><strong>🤝 Mentorship Passion:</strong> Committed to guiding future analysts in navigating the data landscape.</li>
+            <li><strong>📈 Key Achievements:</strong> Built scalable web applications using the LAMP stack and Laravel, improving                     performance and reliability by 40%.
+            Optimized backend workflows and integrated APIs seamlessly to enhance user and client interactions.  
+            </li>
+            <li><strong>🎨  UI/UX Expertise:</strong> Designed user-centric interfaces that improved engagement and satisfaction by                 prioritizing accessibility and simplicity.
+            Delivered wireframes, prototypes, and designs that aligned with business goals and user needs.</li>
+            <li><strong>🤝Team Collaboration::</strong>Team Collaboration:Partnered with cross-functional teams to transform ideas into             functional and user-friendly digital solutions.</li>
         </ul>
 
-        <h2>What I Do</h2>
+       <h2>What I Do</h2>
         <ul>
-            <li><strong>✅ Data Analysis:</strong> Dive deep into datasets to uncover insights and optimize processes.</li>
-            <li><strong>✅ Data Visualization:</strong> Create interactive dashboards using Power BI and Tableau.</li>
-            <li><strong>✅ Mentoring Future Analysts:</strong> Passionate about sharing knowledge through mentoring and workshops.</li>
-            <li><strong>✅ My Passion:</strong> Helping businesses make informed decisions with data-driven strategies.</li>
+            <li><strong>✅ Full-stack Development:</strong> Expert in building scalable SaaS platforms, dynamic web applications, and                 customized WordPress sites.</li>
+            <li><strong>✅ Data Analysis:</strong> Dive deep into datasets to uncover actionable insights, optimize processes, and drive             strategic decision-making.</li>
+            <li><strong>✅ UI/UX Design:</strong> Solve complex problems with a keen eye for user interface and experience design,                     ensuring intuitive and visually appealing digital solutions.</li>
+            <li><strong>✅ Data Visualization:</strong> Create interactive dashboards using Power BI, Tableau, and custom visualizations                to present complex data in a clear and engaging manner.</li>
+            <li><strong>✅ Mentorship:</strong> Passionate about mentoring future analysts and developers through workshops and one-on-                one coaching sessions.</li>
         </ul>
+
 
         <h2>Portfolio</h2>
         <div class="portfolio-item">
@@ -99,7 +102,7 @@
                 Outcome: Identified areas for improvement in operational performance.
             </p>
             <img src="rrreerer.png" alt="Production Efficiency Analysis">
-            <p><a href="https://www.linkedin.com/pulse/production-efficiency-cost-analysis-tolani-ibigbemi-9mf0f?utm_source=share&utm_medium=member_android&utm_campaign=share_via">🔗 Read More</a></p>
+            <p><a href="https://www.linkedin.com/pulse/production-efficiency-cost-analysis-tolani-ibigbemi-9mf0f?                                    utm_source=share&utm_medium=member_android&utm_campaign=share_via">🔗 Read More</a></p>
         </div>
         <div class="portfolio-item">
             <h3>Predictive Modeling and Hypothesis Testing (Titanic Dataset)</h3>
@@ -108,8 +111,9 @@
                 Insight: Unearthed data patterns for survival probabilities.
             </p>
             <img src="2-anietie-etuk-data-analytics-sales-project.jpg" alt="Titanic Analysis">
-            <p><a href="https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/">🔗 Read More</a></p>
+            <p><a href="https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/">🔗 Read                 More</a></p>
         </div>
+        
         <div class="portfolio-item">
             <h3>Agriculture Predictive Analysis</h3>
             <p>Focus: Applied predictive modeling techniques to optimize crop yield.</p>
