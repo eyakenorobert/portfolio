@@ -163,7 +163,7 @@
 
                 <tr>
                     <td>📺</td>
-                    <td><a href="https://www.youtube.com/channel/UCSNEqCKMo-yvI2c2TmJfOHA">Download my CV</a></td>
+                    <td><a href="https://www.youtube.com/channel/UCSNEqCKMo-yvI2c2TmJfOHA">what i do on youtube</a></td>
                 </tr>
                 
             </tbody>
