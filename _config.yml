@@ -1,4 +1,9 @@
 title: Eyakeno Robert
 logo: kimjmj.jpg
+description: "Personal portfolio and blog of Eyakeno Robert. Sharing ideas, projects, and stories."
+social_links:
+  github: https://github.com/yourusername
+  linkedin: https://linkedin.com/in/yourusername
+  twitter: https://twitter.com/yourusername
 theme: jekyll-theme-minimal
 
