@@ -133,7 +133,7 @@
         </div>
         
         <div class="portfolio-item">
-            <h3>Agriculture Predictive Analysis</h3>
+            <h3>UI and UX design for ekodo software company</h3>
             <p>Focus: Applied predictive modeling techniques to optimize crop yield.</p>
             <img src="3-anietie-etuk-data-analytics-agro-project.jpg" alt="Agro Analysis">
             <p><a href="17-How-to-Present-Data-to-Executives-by-Anietie-Etuk.pdf">📥 Download Report (PDF)</a></p>
