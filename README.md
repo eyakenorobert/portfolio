@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/assets/css/style.css">
-    <title>Eyakeno Robert - Data Analyst</title>
+    <title>Eyakeno Robert - Backend developer</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -72,29 +72,32 @@
 <body>
     <div class="container">
         <h2>About Me</h2>
+        
         <p>
             Hi, I am <strong>Eyakeno Robert</strong>. a versatile developer with expertise in the LAMP (Linux, Apache, MySQL, PHP) stack             and Laravel framework, combined with a passion for crafting exceptional user experiences. As a professional UI/UX designer,              I specialize in blending functionality and aesthetics, ensuring that every application is efficient, intuitive, and visually             captivating.
         </p>
+        
         <ul>
             <li><strong>📈 Key Achievements:</strong> Built scalable web applications using the LAMP stack and Laravel, improving                     performance and reliability by 40%.
             Optimized backend workflows and integrated APIs seamlessly to enhance user and client interactions.  
             </li>
+            
             <li><strong>🎨  UI/UX Expertise:</strong> Designed user-centric interfaces that improved engagement and satisfaction by                 prioritizing accessibility and simplicity.
             Delivered wireframes, prototypes, and designs that aligned with business goals and user needs.</li>
+            
             <li><strong>🤝Team Collaboration::</strong>Team Collaboration:Partnered with cross-functional teams to transform ideas into             functional and user-friendly digital solutions.</li>
         </ul>
 
        <h2>What I Do</h2>
         <ul>
             <li><strong>✅ Full-stack Development:</strong> Expert in building scalable SaaS platforms, dynamic web applications, and                 customized WordPress sites.</li>
-            <li><strong>✅ Data Analysis:</strong> Dive deep into datasets to uncover actionable insights, optimize processes, and drive             strategic decision-making.</li>
             <li><strong>✅ UI/UX Design:</strong> Solve complex problems with a keen eye for user interface and experience design,                     ensuring intuitive and visually appealing digital solutions.</li>
-            <li><strong>✅ Data Visualization:</strong> Create interactive dashboards using Power BI, Tableau, and custom visualizations                to present complex data in a clear and engaging manner.</li>
             <li><strong>✅ Mentorship:</strong> Passionate about mentoring future analysts and developers through workshops and one-on-                one coaching sessions.</li>
         </ul>
 
 
         <h2>Portfolio</h2>
+        
         <div class="portfolio-item">
             <h3>Production Efficiency and Cost Analysis</h3>
             <p>
@@ -104,6 +107,7 @@
             <img src="rrreerer.png" alt="Production Efficiency Analysis">
             <p><a href="https://www.linkedin.com/pulse/production-efficiency-cost-analysis-tolani-ibigbemi-9mf0f?                                    utm_source=share&utm_medium=member_android&utm_campaign=share_via">🔗 Read More</a></p>
         </div>
+        
         <div class="portfolio-item">
             <h3>Predictive Modeling and Hypothesis Testing (Titanic Dataset)</h3>
             <p>
@@ -126,11 +130,11 @@
             <tbody>
                 <tr>
                     <td>📧</td>
-                    <td><a href="mailto:tolicles@gmail.com">tolicles@gmail.com</a></td>
+                    <td><a href="mailto:enduranceeyakeno@gmail.com">enduranceeyakeno@gmail.com</a></td>
                 </tr>
                 <tr>
                     <td>📞</td>
-                    <td>(+234) 703-438-9097</td>
+                    <td>(+234) 808-118-6210,09067360591</td>
                 </tr>
                 <tr>
                     <td>📍</td>
@@ -142,7 +146,7 @@
                 </tr>
                 <tr>
                     <td>🌐</td>
-                    <td><a href="https://www.linkedin.com/in/christianaibigbemi">The things I do daily on LinkedIn</a></td>
+                    <td><a href="https://www.linkedin.com/in/christianaibigbemi">The things I do daily on medium</a></td>
                 </tr>
                 <tr>
                     <td>📺</td>
