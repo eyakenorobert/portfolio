@@ -138,7 +138,7 @@
                 </tr>
                 <tr>
                     <td>📍</td>
-                    <td>PH, Nigeria</td>
+                    <td>Victoria, Seychelles</td>
                 </tr>
                 <tr>
                     <td>⬇️</td>
