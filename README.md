@@ -98,7 +98,7 @@
 
         <h2>My skills</h2>
         <ul>
-            <li><strong>✅ PHP,LARAVEL AND NO CODE PRO. BUT MOBILE AND WEB:</strong></li>
+            <li><strong>✅ PHP,LARAVEL AND NO CODE PRO. BOTH MOBILE AND WEB:</strong></li>
             <li><strong>✅ FIGMA, ADOBE XD AND LUNANCY:</strong> </li>
             <li><strong>✅ STRONG COMMUNICATION SKILL AND COLLABORATION</strong>.</li>
         </ul>
