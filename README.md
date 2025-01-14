@@ -142,7 +142,7 @@
                 </tr>
                 <tr>
                     <td>⬇️</td>
-                    <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+                    <td><a href="https:EYAKENO ROBERT cv.pdf">Download my CV</a></td>
                 </tr>
                 <tr>
                     <td>🌐</td>
