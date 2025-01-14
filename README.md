@@ -144,13 +144,10 @@
                     <td>⬇️</td>
                     <td><a href="https:EYAKENO ROBERT cv.pdf">Download my CV</a></td>
                 </tr>
-                <tr>
-                    <td>🌐</td>
-                    <td><a href="https://www.linkedin.com/in/christianaibigbemi">The things I do daily on medium</a></td>
-                </tr>
+        
                 <tr>
                     <td>📺</td>
-                    <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+                    <td><a href="https:www.youtube.com/@eyakenorobert">Watch my tutorials on YouTube</a></td>
                 </tr>
             </tbody>
         </table>
