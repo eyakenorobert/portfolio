@@ -107,21 +107,25 @@
         <h2>Project</h2>
         
         <div class="portfolio-item">
-            <h3>Build a web base application with php that helps client manage there funds </h3>
-            <p>
-                Objective: Evaluate production efficiency, cost management, and quality control metrics. 
-                Outcome: Identified areas for improvement in operational performance.
+            
+               <h3>I build a complete a complete school website for irisfield</h3>
+
+
+                <p>
+                Background:The website helps parents manage there children day to day to day activities. 
+                Insight:The website has both front end and backend, the front end i use wordpress and i develope the theme with php
+                as for the backend i build a custom site without CMS platform.
             </p>
+           
             <img src="isiris.JPG" alt="iris">
             <p><a href="https://irisfieldschoolng.com/">🔗 Read More</a></p>
         </div>
         
         <div class="portfolio-item">
-            <h3>I build a complete a complete school website for irisfield</h3>
+            <h3>Build a web base application with php that helps client manage there funds </h3>
             <p>
-                Background:The website helps parents manage there children day to day to day activities. 
-                Insight:The website has both front end and backend, the front end i use wordpress and i develope the theme with php
-                as for the backend i build a custom site without CMS platform.
+                Objective: Evaluate production efficiency, cost management, and quality control metrics. 
+                Outcome: Identified areas for improvement in operational performance.
             </p>
             <img src="2-anietie-etuk-data-analytics-sales-project.jpg" alt="Titanic Analysis">
             <p><a href="https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/">🔗 Read                 More</a></p>
