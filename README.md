@@ -127,7 +127,7 @@
                 Objective: Evaluate production efficiency, cost management, and quality control metrics. 
                 Outcome: Identified areas for improvement in operational performance.
             </p>
-            <img src="sssdfsdfsf.JPG" alt="Titanic Analysis">
+            <img src="ssssssssssssssssssss.JPG" alt="Titanic Analysis">
             <p><a https://gohelpmee.com/>🔗 Read More</a></p>
         </div>
         
