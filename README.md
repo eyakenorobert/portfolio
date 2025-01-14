@@ -128,7 +128,8 @@
                 Outcome: Identified areas for improvement in operational performance.
             </p>
             <img src="ssssssssssssssssssss.JPG" alt="Titanic Analysis">
-            <p><a https://gohelpmee.com/>🔗 Read More</a></p>
+             <p><a href="https://gohelpmee.com">🔗 Read More</a></p>
+           
         </div>
         
         <div class="portfolio-item">
@@ -160,7 +161,8 @@
         
                 <tr>
                     <td>📺</td>
-                    <td><a https://www.youtube.com/channel/UCSNEqCKMo-yvI2c2TmJfOHA >Watch my tutorials on YouTube</a></td>
+                      <td><a href="https://www.youtube.com/channel/UCSNEqCKMo-yvI2c2TmJfOHA">Download my CV</a></td
+                    
                 </tr>
             </tbody>
         </table>
