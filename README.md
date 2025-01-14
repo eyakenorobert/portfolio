@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,12 +13,7 @@
             background-color: #f4f4f4;
             color: #333;
         }
-        header {
-            background: #0078d4;
-            color: #fff;
-            padding: 20px 0;
-            text-align: center;
-        }
+     
         header h1 {
             margin: 0;
             font-size: 2.5rem;
@@ -70,13 +65,7 @@
         table td a {
             font-weight: bold;
         }
-        footer {
-            text-align: center;
-            margin-top: 20px;
-            padding: 10px;
-            background: #0078d4;
-            color: #fff;
-        }
+    
     </style>
 </head>
 <body>
