@@ -69,11 +69,6 @@
     </style>
 </head>
 <body>
-    <header>
-        <h1>Eyakeno Robert</h1>
-        <p>Data-Driven Insights for Business Growth</p>
-    </header>
-
     <div class="container">
         <h2>About Me</h2>
         <p>
@@ -152,8 +147,6 @@
         </table>
     </div>
 
-    <footer>
-        <p>© 2025 Eyakeno Robert. All rights reserved.</p>
-    </footer>
+  
 </body>
 </html>
