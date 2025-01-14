@@ -160,7 +160,7 @@
         
                 <tr>
                     <td>📺</td>
-                    <td><https://www.youtube.com/channel/UCSNEqCKMo-yvI2c2TmJfOHA >Watch my tutorials on YouTube</a></td>
+                    <td><a https://www.youtube.com/channel/UCSNEqCKMo-yvI2c2TmJfOHA >Watch my tutorials on YouTube</a></td>
                 </tr>
             </tbody>
         </table>
