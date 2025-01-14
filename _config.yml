@@ -3,3 +3,10 @@ logo: kimjmj.jpg
 description: "Personal portfolio and blog of Eyakeno Robert. Sharing ideas, projects, and stories."
 theme: jekyll-theme-minimal
 
+.logo {
+    width: 100px; /* Adjust size as needed */
+    height: 100px; /* Ensure width and height are equal */
+    border-radius: 50%; /* Makes the image round */
+    display: block; /* Centers the image */
+    margin: 0 auto; /* Centers the image horizontally */
+}
