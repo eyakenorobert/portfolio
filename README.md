@@ -112,8 +112,8 @@
                 Objective: Evaluate production efficiency, cost management, and quality control metrics. 
                 Outcome: Identified areas for improvement in operational performance.
             </p>
-            <img src="rrreerer.png" alt="Production Efficiency Analysis">
-            <p><a href="https://www.linkedin.com/pulse/production-efficiency-cost-analysis-tolani-ibigbemi-9mf0f?                                    utm_source=share&utm_medium=member_android&utm_campaign=share_via">🔗 Read More</a></p>
+            <img src="isiris.JPG" alt="iris">
+            <p><a href="https://irisfieldschoolng.com/">🔗 Read More</a></p>
         </div>
         
         <div class="portfolio-item">
