@@ -93,13 +93,21 @@
             <li><strong>✅ Full-stack Development:</strong> Expert in building scalable SaaS platforms, dynamic web applications, and                 customized WordPress sites.</li>
             <li><strong>✅ UI/UX Design:</strong> Solve complex problems with a keen eye for user interface and experience design,                     ensuring intuitive and visually appealing digital solutions.</li>
             <li><strong>✅ Mentorship:</strong> Passionate about mentoring future analysts and developers through workshops and one-on-                one coaching sessions.</li>
+            <li><strong>✅ Tech Sales :</strong> With my excel skill and i help tech company increase there sales  .</li>
+        </ul>
+
+        <h2>My skills</h2>
+        <ul>
+            <li><strong>✅ PHP,LARAVEL AND NO CODE PRO. BUT MOBILE AND WEB:</strong></li>
+            <li><strong>✅ FIGMA, ADOBE XD AND LUNANCY:</strong> </li>
+            <li><strong>✅ STRONG COMMUNICATION SKILL AND COLLABORATION</strong>.</li>
         </ul>
 
 
         <h2>Portfolio</h2>
         
         <div class="portfolio-item">
-            <h3>Production Efficiency and Cost Analysis</h3>
+            <h3>Build a web base application wit php that helps client manage there funds </h3>
             <p>
                 Objective: Evaluate production efficiency, cost management, and quality control metrics. 
                 Outcome: Identified areas for improvement in operational performance.
