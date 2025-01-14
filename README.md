@@ -117,10 +117,11 @@
         </div>
         
         <div class="portfolio-item">
-            <h3>Predictive Modeling and Hypothesis Testing (Titanic Dataset)</h3>
+            <h3>I build a complete a complete school website for irisfield</h3>
             <p>
-                Background: Analyze the RMS Titanic dataset to predict survival and test hypotheses. 
-                Insight: Unearthed data patterns for survival probabilities.
+                Background:The website helps parents manage there children day to day to day activities. 
+                Insight:The website has both front end and backend, the front end i use wordpress and i develope the theme with php
+                as for the backend i build a custom site without CMS platform.
             </p>
             <img src="2-anietie-etuk-data-analytics-sales-project.jpg" alt="Titanic Analysis">
             <p><a href="https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/">🔗 Read                 More</a></p>
